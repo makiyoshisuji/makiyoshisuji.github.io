@@ -174,7 +174,7 @@ footer .pr {
 	margin-bottom: 15px;
 }
 .ta1, .ta1 td, .ta1 th {
-	border: 2px solid #9c9c93;	/*テーブルの枠線の幅、線種、色*/
+	border: 2px solid #ffff;	/*テーブルの枠線の幅、線種、色*/
 	padding: 10px;			/*テーブル内の余白*/
 	word-break: break-all;
 }
@@ -214,7 +214,7 @@ footer .pr {
 #menubar li {
 	display: block;	/*メニューを「横並び」から「縦並び」に変更する設定*/
 	margin-bottom: 5px;
-	border-bottom: 3px solid #2E2E2E;	/*下の線の幅、線種、色を追加指定*/
+	/*border-bottom: 3px solid #2E2E2E;	/*下の線の幅、線種、色を追加指定*/
 }
 
 /*Galleryページ
